@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "salvia",
+  "base_artist": "Nornis",
+  "createdAt": "2025-12-11T13:27:00.860957Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "You Can Dance (Vincenzo Salvia Remix)",
+      "artist": "Ksmtk feat. Vincenzo Salvia",
+      "has_synced": false,
+      "path": "select/01_You_Can_Dance_(Vincenzo_Salvia_Remix)_Ksmtk_feat._Vincenzo_Salvia.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "You Can Dance (feat. Vincenzo Salvia) (Vincenzo Salvia Remix)",
+      "artist": "Ksmtk",
+      "has_synced": false,
+      "path": "select/02_You_Can_Dance_(feat._Vincenzo_Salvia)_(Vincenzo_Salvia_Remix)_Ksmtk.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Salvia",
+      "artist": "Eric North",
+      "has_synced": true,
+      "path": "select/03_Salvia_Eric_North.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "salvia plath",
+      "artist": "Teen Suicide",
+      "has_synced": false,
+      "path": "select/04_salvia_plath_Teen_Suicide.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "salvia plath",
+      "artist": "teen suicide",
+      "has_synced": true,
+      "path": "select/05_salvia_plath_teen_suicide.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Salvia Divinorum",
+      "artist": "1200 Micrograms",
+      "has_synced": false,
+      "path": "select/06_Salvia_Divinorum_1200_Micrograms.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "In Salvia",
+      "artist": "Dutch Uncles",
+      "has_synced": true,
+      "path": "select/07_In_Salvia_Dutch_Uncles.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "blue salvia",
+      "artist": "PRYVT",
+      "has_synced": true,
+      "path": "select/08_blue_salvia_PRYVT.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "VERDE SALVIA",
+      "artist": "Kalpa",
+      "has_synced": true,
+      "path": "select/09_VERDE_SALVIA_Kalpa.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Big Money Salvia",
+      "artist": "Hot Dad",
+      "has_synced": false,
+      "path": "select/10_Big_Money_Salvia_Hot_Dad.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Big Money Salvia City",
+      "artist": "Hot Dad",
+      "has_synced": false,
+      "path": "select/11_Big_Money_Salvia_City_Hot_Dad.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Big Spooky Salvia",
+      "artist": "Hot Dad",
+      "has_synced": true,
+      "path": "select/12_Big_Spooky_Salvia_Hot_Dad.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Big Money Salvia",
+      "artist": "Hot Dad",
+      "has_synced": false,
+      "path": "select/13_Big_Money_Salvia_Hot_Dad.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Petraolevm Salvia",
+      "artist": "Enthroned",
+      "has_synced": false,
+      "path": "select/14_Petraolevm_Salvia_Enthroned.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "salvia",
+      "artist": "Nornis",
+      "has_synced": false,
+      "path": "select/pl_01_salvia_Nornis.txt"
+    }
+  ]
+}
